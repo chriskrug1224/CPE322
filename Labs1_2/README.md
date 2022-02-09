@@ -50,6 +50,6 @@
 ![ping](Pics/ping.png) <br />
 
 **netstat** <br />
-![netstat](Pics/netstat.png) <br />
+![netstat](Pics/net_stat.png) <br />
 
 ### Done! :)
