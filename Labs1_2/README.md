@@ -1,1 +1,1 @@
-![Instructions](Labs1_2/Pics/hostname.png)
+![Instructions](Pics/hostname.png)
