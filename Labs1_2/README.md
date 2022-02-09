@@ -1,4 +1,4 @@
-###Assignment
+###Assignment###
 ![Instructions](Pics/instructions.png)
-**hostname**
+**hostname** <br />
 ![Instructions](Pics/hostname.png)
