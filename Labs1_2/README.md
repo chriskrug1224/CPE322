@@ -4,8 +4,8 @@
 **hostname** <br />
 ![hostname](Pics/hostname.png) <br />
 
-**erv** <br />
-![erv](Pics/erv.png) <br />
+**env** <br />
+![env](Pics/env.png) <br />
 
 **ps** <br />
 ![ps](Pics/ps.png) <br />
