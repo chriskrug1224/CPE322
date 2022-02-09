@@ -4,8 +4,8 @@
 **hostname** <br />
 ![hostname](Pics/hostname.png) <br />
 
-**env** <br />
-![env](Pics/erv.png) <br />
+**erv** <br />
+![erv](Pics/erv.png) <br />
 
 **ps** <br />
 ![ps](Pics/ps.png) <br />
@@ -50,4 +50,4 @@
 ![ping](Pics/ping.png) <br />
 
 **netstat** <br />
-![netstat](Pics/netstat.png) <br />
+![netstat](Pics/netstat.png)
