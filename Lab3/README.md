@@ -33,6 +33,6 @@
 ![battery](Assets/battery.png) <br />
 
 **document_stats** <br />
-![document_stats](Assets/documentstats.png) <br />
+![document_stats](Assets/document.png) <br />
 
 ### Done! :)
